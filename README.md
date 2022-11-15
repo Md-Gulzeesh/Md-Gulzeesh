@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Have fun while learning.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: **https://www.linkedin.com/in/gulzeesh/**</h3>
 <p align="left">
 </p>
 
