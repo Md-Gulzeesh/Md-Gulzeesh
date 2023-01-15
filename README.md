@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Gulzeesh</h1>
-<h3 align="center">An Enthusiastic Full Stack Web Developer. Ready to explore and learn new things.I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.</h3>
+<h3 align="center">An Enthusiastic Full Stack Web Developer. Ready to explore and learn new things.I make it my mission to translate user-focused designs into pixel-perfect websites and applications that run blazing fast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-gulzeesh&label=Profile%20views&color=0e75b6&style=flat" alt="md-gulzeesh" /> </p>
 
