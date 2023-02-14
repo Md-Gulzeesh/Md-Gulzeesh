@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-gulzeesh" alt="md-gulzeesh" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack Web Development**
+- 🔭 I’m currently working on **Real time chat app**
 
 - 🌱 I’m currently learning **typescript, nodejs**
 
