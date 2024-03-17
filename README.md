@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Real time chat app**
 
-- 🌱 I’m currently learning **typescript, nodejs**
+- 🌱 I’m currently learning **Threejs**
 
-- 💬 Ask me about **react,html,css and Javascript.**
+- 💬 Ask me about **html,css,javascript, typescript, reactjs and nextjs.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/gulzeesh/**
 
